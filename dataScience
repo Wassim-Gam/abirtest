@@ -1,0 +1,10 @@
+les etapes :
+
+la premiére étape consiste à collecter les données nécessaires : tout d abord il faut bien commprendre les besoins pour bien choisir les donnees . il faut utiliser une  grande quantité 
+des données pour que le résultat devient plus précis et adapté aux besoins.on peut utliser kaggle par exemple.
+la deuxiéme étape est de préparer des données : il est nécessaire de prétraiter les données (Données mal annotées, data non disponibles, doublons, informations incohérentes ...)
+cad il faut nettoyer les données 
+ensuite, il faut déterminer le bon modéle selon le besoin comme KNN ou CNN ou autre
+et aprés il faut entrainer le modéle:  
+sélectionner une partie du dataset (échantillonnage) environ 70 et 80% afin d entraîner plus efficacement le modèle et de perfectionner ses prédictions 
+et une partie pour le test environ 20 et 30% c est pour évaluer la performance du modéle.

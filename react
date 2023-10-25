@@ -1,0 +1,13 @@
+function api() {
+  const getUsers = () => {
+    return fetch(" https://api.ft.com/users/1/profile/basic", {
+      type: "GET",
+    }).then((res) => res.json());
+  };
+
+  return {
+    getUsers,
+  };
+}
+
+export default api();

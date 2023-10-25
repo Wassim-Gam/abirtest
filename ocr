@@ -1,0 +1,10 @@
+OCR (Optical Character Recognition) est utilisé pour convertir une image en une texte editable. 
+les étapes necessaires pour créer l ocr.
+1- collecter des données
+2- traitement d'image
+3- segmentation du texte c'est à dire positionner le texte 
+4- entrainer le modéle(train model)
+5- intégrer ocr 
+et parmi les bibiothéques utilisés:
+tessract (variété des langues)
+pandas (manipulation des données)
